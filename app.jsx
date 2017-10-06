@@ -2,17 +2,17 @@
 
 const items= [{
     question: 'Who was the painter of big girls?',
-    options: ['Botero', 'Velásquez', 'Picaso'],
+    options: ['Botero', 'Velasquez', 'Picaso'],
     correctAnswer: 'Botero'
 },
 {
     question: 'Who wrote the best popular novel in Argentina?',
-    options: ['Cortázar', 'Vargas', 'Bolaños'],
+    options: ['Cortazar', 'Vargas', 'Bolaños'],
     correctAnswer: 'Cortázar'
 },
 {
     question: 'What is the complete name of  Quino?',
-    options: ['Joaquín Lavado', 'Geremías Gamboa', 'Salvador Darío'],
+    options: ['Joaquín Lavado', 'Geremias Gamboa', 'Salvador Darío'],
     correctAnswer: 'Lavado'
 },
 {
